@@ -1,0 +1,12 @@
+# Игнорируем кеш Go
+/home/andy/go/pkg/
+
+# Игнорируем бинарные файлы
+bin/
+dist/
+*.exe
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.DS_Store
